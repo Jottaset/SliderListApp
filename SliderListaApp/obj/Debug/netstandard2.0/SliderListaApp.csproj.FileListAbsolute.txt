@@ -1,0 +1,11 @@
+/Users/aluno/Projects/SliderListaApp/SliderListaApp/bin/Debug/netstandard2.0/SliderListaApp.deps.json
+/Users/aluno/Projects/SliderListaApp/SliderListaApp/bin/Debug/netstandard2.0/SliderListaApp.dll
+/Users/aluno/Projects/SliderListaApp/SliderListaApp/bin/Debug/netstandard2.0/SliderListaApp.pdb
+/Users/aluno/Projects/SliderListaApp/SliderListaApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/SliderListaApp/SliderListaApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/SliderListaApp/SliderListaApp/obj/Debug/netstandard2.0/SliderListaApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/SliderListaApp/SliderListaApp/obj/Debug/netstandard2.0/SliderListaApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/SliderListaApp/SliderListaApp/obj/Debug/netstandard2.0/SliderListaApp.AssemblyInfo.cs
+/Users/aluno/Projects/SliderListaApp/SliderListaApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/SliderListaApp/SliderListaApp/obj/Debug/netstandard2.0/SliderListaApp.dll
+/Users/aluno/Projects/SliderListaApp/SliderListaApp/obj/Debug/netstandard2.0/SliderListaApp.pdb
